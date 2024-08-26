@@ -20,7 +20,7 @@ body{
     box-sizing: border-box;
     background-color: var(--color-primaria);
     color: var(--color-secundaria);
-    background-image: url('assets/fondo.gif');
+    background-image: url('assets/fongo.gif');
     background-size: cover;
 }
 
